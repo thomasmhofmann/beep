@@ -1,5 +1,7 @@
 module github.com/faiface/beep
 
+go 1.14
+
 require (
 	github.com/gdamore/tcell v1.1.1
 	github.com/hajimehoshi/go-mp3 v0.1.1
