@@ -9,4 +9,5 @@ RUN sudo apt update \
         libopusfile-dev \
         libopus0 \
         libopus-dev \
+        libasound2-dev \
     && sudo rm -rf /var/lib/apt/lists/*
